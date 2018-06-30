@@ -1,0 +1,8 @@
+
+€"squid:ClassVariableVisibilityCheck"OMake uid a static final constant or non-public and provide accessors if needed.(Ê¶È÷ıÿÿÿÿ
+|"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+‹"squid:ClassVariableVisibilityCheck"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ8Ÿâò¹Ä,
+Œ"squid:ClassVariableVisibilityCheck"TMake primaryB a static final constant or non-public and provide accessors if needed.(å›ïªÿÿÿÿÿ8˜ñ¹Ä,
+‚"squid:ClassVariableVisibilityCheck"OMake num a static final constant or non-public and provide accessors if needed.(È—£8±ğ¹Ä,
+qsquid:UselessImportCheck"ORemove this unused import 'com.google.firebase.database.IgnoreExtraProperties'.(¤¾ËÌ
+Œ"squid:ClassVariableVisibilityCheck"TMake province a static final constant or non-public and provide accessors if needed.(º«ä„ùÿÿÿÿ8Ï¯»Ä,

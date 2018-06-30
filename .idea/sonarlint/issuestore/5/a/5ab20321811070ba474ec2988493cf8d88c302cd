@@ -1,0 +1,8 @@
+
+Gsquid:S1659"&Declare "provDrop" on a separate line.(•î—İúÿÿÿÿ8ÒØ´¿Ä,
+Hsquid:S1659"'Declare "addrField" on a separate line.(„÷“æşÿÿÿÿ8ê·ñ¾Ä,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕˆŠº8ÒØ´¿Ä,
+Gsquid:S1659"&Declare "numField" on a separate line.(„÷“æşÿÿÿÿ8±û—»Ä,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıÇ·8ÒØ´¿Ä,
+usquid:S1450"[Remove the "submitButton" field and declare it as a local variable in the relevant methods.(öìªºûÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç®Ü‰8ÒØ´¿Ä,
